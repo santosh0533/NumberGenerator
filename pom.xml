@@ -24,7 +24,7 @@
         <repository>
             <id>central</id>
             <name>Release Snapshot</name>
-            <url>http://10.5.26.40:8081/artifactory/list/libs-snapshot-local/</url>
+            <url>http://10.5.26.40:8081/artifactory/libs-release-local/</url>
         </repository>
     </distributionManagement>
 	<build>
